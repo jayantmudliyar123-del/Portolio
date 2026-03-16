@@ -124,7 +124,7 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>UX/User Research</h3>
+              <h3>UX & Research</h3>
               <h4>Mapping intuitive user journeys</h4>
               <p>
                 Designing robust APIs and microservices. From CMS platforms to
