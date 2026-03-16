@@ -87,7 +87,7 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>UI / Visual Design</h3>
+              <h3>UI/Visual Design</h3>
               <h4>Crafting pixel-perfect interfaces</h4>
               <p>
                 Crafting visually compelling, pixel-perfect interfaces and interactive prototypes that bring brands to life and engage users.
@@ -124,7 +124,7 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>UX / User Research</h3>
+              <h3>UX/User Research</h3>
               <h4>Mapping intuitive user journeys</h4>
               <p>
                 Designing robust APIs and microservices. From CMS platforms to
