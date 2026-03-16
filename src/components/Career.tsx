@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Senior Product Designer</h4>
+                <h5>THOUGHTWIN IT SOLUTIONS PVT LTD</h5>
               </div>
-              <h3>2020</h3>
+              <h3>NOW (5+ Yr)</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Leading end-to-end product strategy and design for web and mobile applications. Balancing user needs with business goals through deep research and rapid Figma prototyping, collaborating with cross-functional teams to launch scalable solutions that improve product adoption rates.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Graphic & UI Designer</h4>
+                <h5>EcomCraft Pvt. Ltd.</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2018 (2 Yr)</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Designed compelling UI elements, icons, and branding materials for diverse clients. Crafted responsive, cross-platform UI components to ensure seamless visual consistency and engaging user experiences.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Intern Graphic & UI Designer</h4>
+                <h5>Paravidhi Pvt Ltd</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2017 (6 Mo)</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Kick-started my career by assisting with digital interface layouts, custom icon design, and wireframing. Gained foundational, hands-on experience using Adobe Creative Suite and various UI prototyping tools.
             </p>
           </div>
         </div>
