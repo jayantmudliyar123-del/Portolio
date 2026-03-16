@@ -87,19 +87,18 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>UI / Visual Design</h3>
+              <h4>Crafting pixel-perfect interfaces</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Crafting visually compelling, pixel-perfect interfaces and interactive prototypes that bring brands to life and engage users.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">Figma</div>
+                <div className="what-tags">Adobe XD</div>
+                <div className="what-tags">Photoshop</div>
+                <div className="what-tags">Illustrator</div>
+                <div className="what-tags">Enterprise Design Systems</div>
                 <div className="what-tags">Material UI</div>
                 <div className="what-tags">HTML5</div>
                 <div className="what-tags">CSS3</div>
